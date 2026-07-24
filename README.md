@@ -1,4 +1,3 @@
-
 # HeritageGPT
 
 HeritageGPT is an AI assistant for exploring the heritage and tourism of Andhra Pradesh. It uses a retrieval-augmented generation pipeline with ChromaDB, Sentence Transformers, and a Groq-hosted LLM to answer questions about temples, forts, beaches, festivals, caves, museums, and more.
@@ -71,4 +70,3 @@ If you want to rebuild the knowledge base from the raw datasets, the preprocessi
 - The repository includes a local ChromaDB store under `vector_db/`.
 - The app currently targets Andhra Pradesh heritage and tourism content.
 - If dependencies are missing on first run, install them in the active virtual environment and retry.
-
