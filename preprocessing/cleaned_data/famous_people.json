@@ -1,0 +1,992 @@
+[
+    {
+        "id": "PPL000001",
+        "name": "Sri Krishnadevaraya",
+        "alternate_names": [
+            "Krishnadevaraya",
+            "Andhra Bhoja",
+            "Kannada Rajya Rama Ramana"
+        ],
+        "title": "Emperor of Vijayanagara",
+        "category": "Ruler & Patron of Literature",
+        "era": "1471 CE – 1529 CE",
+        "native_location": {
+            "district": "Sri Sathya Sai",
+            "city": "Penukonda / Hampi",
+            "state": "Andhra Pradesh / Karnataka"
+        },
+        "dynasty_id": "DYN000003",
+        "profession": [
+            "Monarch",
+            "Poet",
+            "Military Strategist"
+        ],
+        "notable_works_achievements": [
+            "Authored epic Telugu poem Amuktamalyada",
+            "Patronized the Ashtadiggajas (Eight Great Court Poets)",
+            "Presided over the Golden Age of Vijayanagara Empire",
+            "Constructed iconic temple gopurams across South India"
+        ],
+        "associated_place_ids": [
+            "LOC000001",
+            "LOC000016",
+            "LOC000118"
+        ],
+        "summary": "The most celebrated emperor of the Vijayanagara Dynasty whose reign represented the pinnacle of Telugu literature, architecture, and military power.",
+        "images": [
+            "krishnadevaraya_bronze_statue.jpg",
+            "amuktamalyada_manuscript.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Krishnadevaraya",
+                "Vijayanagara",
+                "Amuktamalyada",
+                "Andhra Bhoja",
+                "Ashtadiggajas"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Ruler",
+                "Vijayanagara",
+                "TeluguLiterature"
+            ]
+        }
+    },
+    {
+        "id": "PPL000002",
+        "name": "Alluri Sitarama Raju",
+        "alternate_names": [
+            "Manyam Veerudu",
+            "Rama Raju"
+        ],
+        "title": "Hero of the Jungle",
+        "category": "Freedom Fighter & Revolutionary",
+        "era": "1897 CE – 1924 CE",
+        "native_location": {
+            "district": "Bhimavaram / Alluri Sitharama Raju",
+            "city": "Mogallu / Pandrangi",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Revolutionary Leader",
+            "Tribal Rights Activist"
+        ],
+        "notable_works_achievements": [
+            "Led the historic Rampa Rebellion of 1922–24 against British rule",
+            "Organized tribal adivasis in Agency areas against Madras Forest Act",
+            "Pioneered guerilla warfare tactics against British police stations"
+        ],
+        "associated_place_ids": [
+            "LOC000048",
+            "LOC000018"
+        ],
+        "summary": "Iconic Indian freedom fighter who led the armed Rampa Rebellion in the Eastern Ghats agency tracks to protect indigenous tribal communities.",
+        "images": [
+            "alluri_sitarama_raju_portrait.jpg",
+            "rampa_rebellion_memorial.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Alluri Sitarama Raju",
+                "Manyam Veerudu",
+                "Rampa Rebellion",
+                "Freedom Fighter",
+                "Agency Area"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "FreedomFighter",
+                "Revolutionary",
+                "AndhraPradesh"
+            ]
+        }
+    },
+    {
+        "id": "PPL000003",
+        "name": "Pingali Venkayya",
+        "alternate_names": [
+            "Jhanda Venkayya"
+        ],
+        "title": "Designer of the Indian National Flag",
+        "category": "Freedom Fighter & Educationist",
+        "era": "1876 CE – 1963 CE",
+        "native_location": {
+            "district": "Krishna",
+            "mandal": "Bhatlapenumarru",
+            "city": "Machilipatnam",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Freedom Fighter",
+            "Geologist",
+            "Agriculture Scholar",
+            "Linguist"
+        ],
+        "notable_works_achievements": [
+            "Designed the Swaraj Flag presented to Mahatma Gandhi at Vijayawada in 1921",
+            "Design served as the direct foundation for the official Tricolor Flag of India",
+            "Authored a comprehensive book on national flags of 30 countries (1916)"
+        ],
+        "associated_place_ids": [
+            "LOC000003",
+            "LOC000085"
+        ],
+        "summary": "Gandhian freedom fighter and polymath from Krishna district who designed the original Indian Tricolor flag.",
+        "images": [
+            "pingali_venkayya_portrait.jpg",
+            "original_swaraj_flag_1921.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Pingali Venkayya",
+                "Indian Flag Designer",
+                "Tricolor",
+                "Vijayawada AICC 1921",
+                "Krishna District"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "FreedomFighter",
+                "NationalFlag",
+                "Krishna"
+            ]
+        }
+    },
+    {
+        "id": "PPL000004",
+        "name": "Tallapaka Annamacharya",
+        "alternate_names": [
+            "Annamayya",
+            "Padakavitha Pitamaha"
+        ],
+        "title": "Grandfather of Telugu Song Composition",
+        "category": "Saint & Musician",
+        "era": "1408 CE – 1503 CE",
+        "native_location": {
+            "district": "Annamayya",
+            "mandal": "Rajampet",
+            "city": "Tallapaka",
+            "state": "Andhra Pradesh"
+        },
+        "dynasty_id": "DYN000003",
+        "profession": [
+            "Carnatic Music Composer",
+            "Vaggeyakara",
+            "Spiritual Poet"
+        ],
+        "notable_works_achievements": [
+            "Composed 32,000 Sankeertanas in praise of Lord Venkateswara",
+            "Inscribed compositions on copper plates preserved inside Tirumala Annamayya Bhandaram",
+            "Pioneered equal rights and anti-caste themes in devotional poetry (Brahmam Okkate)"
+        ],
+        "associated_place_ids": [
+            "LOC000001",
+            "LOC000122"
+        ],
+        "summary": "15th-century saint-composer who dedicated his life to creating thousands of iconic Carnatic sankeertanas for Lord Venkateswara.",
+        "images": [
+            "annamayya_tallapaka_statue.jpg",
+            "annamayya_copper_plates.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Annamayya",
+                "Annamacharya",
+                "Tallapaka",
+                "Tirumala",
+                "Sankeertana",
+                "Venkateswara"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Saint",
+                "Composer",
+                "Tirupati",
+                "Carnatic"
+            ]
+        }
+    },
+    {
+        "id": "PPL000005",
+        "name": "Tanguturi Prakasam Pantulu",
+        "alternate_names": [
+            "Andhra Kesari"
+        ],
+        "title": "Lion of Andhra",
+        "category": "Freedom Fighter & Statesman",
+        "era": "1872 CE – 1957 CE",
+        "native_location": {
+            "district": "Prakasam",
+            "mandal": "Tanguturu",
+            "city": "Vinodarayunipalem",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Barrister",
+            "Freedom Fighter",
+            "First Chief Minister of Andhra State"
+        ],
+        "notable_works_achievements": [
+            "Bared his chest to British bayonets during Simon Commission protests in Madras (1928)",
+            "Served as the First Chief Minister of Andhra State (1953–1954)",
+            "Published Swarajya national daily newspaper"
+        ],
+        "associated_place_ids": [
+            "LOC000080",
+            "LOC000003"
+        ],
+        "summary": "Fearless freedom fighter and eminent lawyer who earned the title 'Andhra Kesari' and became the founding Chief Minister of Andhra State.",
+        "images": [
+            "tanguturi_prakasam_portrait.jpg",
+            "andhra_kesari_statue.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Tanguturi Prakasam",
+                "Andhra Kesari",
+                "Lion of Andhra",
+                "First Chief Minister",
+                "Prakasam District"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "FreedomFighter",
+                "ChiefMinister",
+                "Prakasam"
+            ]
+        }
+    },
+    {
+        "id": "PPL000006",
+        "name": "Kandukuri Veeresalingam Pantulu",
+        "alternate_names": [
+            "Veeresalingam",
+            "Gadya Tikkana"
+        ],
+        "title": "Father of Renaissance in Telugu Literature",
+        "category": "Social Reformer & Writer",
+        "era": "1848 CE – 1919 CE",
+        "native_location": {
+            "district": "East Godavari",
+            "city": "Rajahmundry (Rajamahendravaram)",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Social Reformer",
+            "Journalist",
+            "Novelist",
+            "Educator"
+        ],
+        "notable_works_achievements": [
+            "Organized the first widow remarriage in Andhra region (1881)",
+            "Authored Rajasekhara Charitam (first modern novel in Telugu literature)",
+            "Established Hitakarini Samajam school for women in Rajahmundry"
+        ],
+        "associated_place_ids": [
+            "LOC000011"
+        ],
+        "summary": "Crusading social reformer who spearheaded widow remarriages, female education, and modern prose literature in Andhra Pradesh.",
+        "images": [
+            "veeresalingam_pantulu_portrait.jpg",
+            "hitakarini_school_rajahmundry.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Veeresalingam",
+                "Widow Remarriage",
+                "Telugu Renaissance",
+                "Rajahmundry",
+                "Rajasekhara Charitam"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "SocialReformer",
+                "Literature",
+                "Rajahmundry"
+            ]
+        }
+    },
+    {
+        "id": "PPL000007",
+        "name": "Gurazada Apparao",
+        "alternate_names": [
+            "Gurazada"
+        ],
+        "title": "Mahakavi",
+        "category": "Playwright & Poet",
+        "era": "1862 CE – 1915 CE",
+        "native_location": {
+            "district": "Anakapalli / Vizianagaram",
+            "city": "Rayavaram / Vizianagaram",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Playwright",
+            "Poet",
+            "Court Scholar of Vizianagaram Sansthanam"
+        ],
+        "notable_works_achievements": [
+            "Authored landmark social play Kanyasulkam (1892) attacking bride-price custom",
+            "Composed patriot anthem 'Desamunu Preminchumanna' (Love the Nation)",
+            "Pioneered spoken spoken-dialect (Vyavaharika Bhasha) literature in Telugu"
+        ],
+        "associated_place_ids": [
+            "LOC000130"
+        ],
+        "summary": "Visionary literary icon and reformer whose masterpiece play Kanyasulkam revolutionized modern Telugu drama and social perspectives.",
+        "images": [
+            "gurazada_apparao_portrait.jpg",
+            "kanyasulkam_book_cover.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Gurazada Apparao",
+                "Kanyasulkam",
+                "Desamunu Preminchumanna",
+                "Vizianagaram",
+                "Modern Telugu Literature"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Poet",
+                "Playwright",
+                "Vizianagaram"
+            ]
+        }
+    },
+    {
+        "id": "PPL000008",
+        "name": "Sri Sri (Srirangam Srinivasa Rao)",
+        "alternate_names": [
+            "Sri Sri"
+        ],
+        "title": "Mahakavi of Progressive Poetry",
+        "category": "Poet & Lyricist",
+        "era": "1910 CE – 1983 CE",
+        "native_location": {
+            "district": "Visakhapatnam",
+            "city": "Visakhapatnam",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Revolutionary Poet",
+            "Film Lyricist",
+            "Journalist"
+        ],
+        "notable_works_achievements": [
+            "Authored Mahaprasthanam (The Great Journey), landmark progressive poetry anthology",
+            "President of Revolutionary Writers' Association (Arasam)",
+            "Won National Film Award for Best Lyrics (Alluri Sitarama Raju film)"
+        ],
+        "associated_place_ids": [
+            "LOC000046"
+        ],
+        "summary": "Modern Telugu poetry's greatest revolutionary voice who transformed literature into a weapon for social equity and working-class empowerment.",
+        "images": [
+            "sri_sri_portrait.jpg",
+            "mahaprasthanam_book.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Sri Sri",
+                "Srirangam Srinivasa Rao",
+                "Mahaprasthanam",
+                "Visakhapatnam",
+                "Revolutionary Poet"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Poet",
+                "Visakhapatnam",
+                "Literature"
+            ]
+        }
+    },
+    {
+        "id": "PPL000009",
+        "name": "Dr. Sarvepalli Radhakrishnan",
+        "alternate_names": [
+            "S. Radhakrishnan"
+        ],
+        "title": "First Vice President & 2nd President of India",
+        "category": "Philosopher & Statesman",
+        "era": "1888 CE – 1975 CE",
+        "native_location": {
+            "district": "Tirupati",
+            "city": "Tiruttani / Tirupati",
+            "state": "Andhra Pradesh / Tamil Nadu"
+        },
+        "profession": [
+            "Philosopher",
+            "Academic",
+            "Vice-Chancellor of Andhra University",
+            "President of India"
+        ],
+        "notable_works_achievements": [
+            "Served as Vice-Chancellor of Andhra University (1931–1936)",
+            "Authored Indian Philosophy (2 Volumes) and Eastern Religions and Western Thought",
+            "His birthday, September 5th, is commemorated nationally as Teachers' Day in India",
+            "Conferred Bharat Ratna (1954)"
+        ],
+        "associated_place_ids": [
+            "LOC000001",
+            "LOC000046"
+        ],
+        "summary": "World-renowned philosopher, statesman, and academic from Tirupati region whose birth anniversary is celebrated nationwide as Teachers' Day.",
+        "images": [
+            "sarvepalli_radhakrishnan_portrait.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Sarvepalli Radhakrishnan",
+                "Teachers Day",
+                "President of India",
+                "Andhra University",
+                "Indian Philosophy"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "President",
+                "Philosopher",
+                "BharatRatna"
+            ]
+        }
+    },
+    {
+        "id": "PPL000010",
+        "name": "Tenali Ramakrishna",
+        "alternate_names": [
+            "Tenali Rama",
+            "Vikatakavi"
+        ],
+        "title": "Court Jester & Scholar Poet",
+        "category": "Poet & Court Wit",
+        "era": "16th Century CE",
+        "native_location": {
+            "district": "Guntur",
+            "mandal": "Tenali",
+            "city": "Tenali / Garalapadu",
+            "state": "Andhra Pradesh"
+        },
+        "dynasty_id": "DYN000003",
+        "profession": [
+            "Court Poet",
+            "Wit & Satirist"
+        ],
+        "notable_works_achievements": [
+            "Ashtadiggaja poet in the court of Emperor Krishnadevaraya",
+            "Authored Panduranga Mahatmyam (one of the five great Telugu Kavyas)",
+            "Legendary status across India for folk tales showcasing wit and wisdom"
+        ],
+        "associated_place_ids": [
+            "LOC000017",
+            "LOC000001"
+        ],
+        "summary": "Celebrated 16th-century poet-wit from Tenali whose sharp intelligence and literary masterpiece Panduranga Mahatmyam earned eternal fame.",
+        "images": [
+            "tenali_ramakrishna_illustration.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Tenali Rama",
+                "Tenali Ramakrishna",
+                "Vikatakavi",
+                "Panduranga Mahatmyam",
+                "Guntur"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Poet",
+                "Guntur",
+                "Ashtadiggajas"
+            ]
+        }
+    },
+    {
+        "id": "PPL000011",
+        "name": "Potti Sreeramulu",
+        "alternate_names": [
+            "Amarajeevi Potti Sreeramulu"
+        ],
+        "title": "Father of Andhra State",
+        "category": "Freedom Fighter & Social Reformer",
+        "era": "1901 CE – 1952 CE",
+        "native_location": {
+            "district": "Prakasam / Nellore",
+            "city": "Padamatapally / Nellore",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Freedom Fighter",
+            "Gandhian Social Reformer"
+        ],
+        "notable_works_achievements": [
+            "Undertook a historic 58-day fatal fast unto death demanding a separate state for Telugu-speaking people (Andhra State)",
+            "Participated actively in the Indian Independence Movement and Salt Satyagraha",
+            "Worked tirelessly for the temple entry of Dalits in Nellore"
+        ],
+        "associated_place_ids": [
+            "LOC000075",
+            "LOC000003"
+        ],
+        "summary": "Gandhian martyr whose supreme sacrifice through a hunger strike led directly to the formation of Andhra State, India's first linguistic state.",
+        "images": [
+            "potti_sreeramulu_portrait.jpg",
+            "amarajeevi_memorial.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Potti Sreeramulu",
+                "Amarajeevi",
+                "Andhra State Formation",
+                "Linguistic State",
+                "Nellore"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "FreedomFighter",
+                "SocialReformer",
+                "AndhraPradesh"
+            ]
+        }
+    },
+    {
+        "id": "PPL000012",
+        "name": "Yarlagadda Nayudamma",
+        "alternate_names": [
+            "Dr. Y. Nayudamma"
+        ],
+        "title": "Pioneer of Pediatric Surgery in India",
+        "category": "Scientist & Surgeon",
+        "era": "1922 CE – 1982 CE",
+        "native_location": {
+            "district": "Krishna",
+            "mandal": "Pamarru",
+            "city": "Yelamarru",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Pediatric Surgeon",
+            "Director General of CSIR",
+            "Padma Shri Recipient"
+        ],
+        "notable_works_achievements": [
+            "Successfully performed India's first conjoined twin separation surgery at AIIMS Delhi (1968)",
+            "Served as Director General of the Council of Scientific and Industrial Research (CSIR)",
+            "Conferred Padma Shri in 1969 for contributions to medical science"
+        ],
+        "associated_place_ids": [
+            "LOC000003"
+        ],
+        "summary": "World-renowned pediatric surgeon from Krishna district who pioneered complex conjoined twin surgeries and scientific administration in India.",
+        "images": [
+            "nayudamma_portrait.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Y. Nayudamma",
+                "Conjoined Twins Surgery",
+                "CSIR",
+                "Pediatric Surgeon",
+                "Krishna District"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Scientist",
+                "Doctor",
+                "PadmaShri"
+            ]
+        }
+    },
+    {
+        "id": "PPL000013",
+        "name": "Maganti Ankineedu",
+        "alternate_names": [
+            "Mahakavi Devulapalli Krishna Sastry"
+        ],
+        "title": "Andhra Shelley",
+        "category": "Romantic Poet & Lyricist",
+        "era": "1897 CE – 1980 CE",
+        "native_location": {
+            "district": "East Godavari",
+            "mandal": "Pithapuram",
+            "city": "Pedandapadu",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Bhava Kavi (Romantic Poet)",
+            "Radio Lyricist"
+        ],
+        "notable_works_achievements": [
+            "Pioneered the 'Bhava Kavithwam' (Romantic poetry) movement in Telugu literature",
+            "Authored timeless lyrical masterworks like Krishna Paksham and Urvasi",
+            "Composed legendary film and radio songs that shaped golden era Telugu music"
+        ],
+        "associated_place_ids": [
+            "LOC000011",
+            "LOC000009"
+        ],
+        "summary": "Lyrical genius known as the 'Shelley of Andhra' who infused modern Telugu poetry with deep romanticism, melancholy, and divine yearning.",
+        "images": [
+            "krishna_sastry_portrait.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Devulapalli Krishna Sastry",
+                "Andhra Shelley",
+                "Bhava Kavithwam",
+                "Krishna Paksham",
+                "East Godavari"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Poet",
+                "Romanticism",
+                "TeluguLiterature"
+            ]
+        }
+    },
+    {
+        "id": "PPL000014",
+        "name": "Gottipati Brahmayya",
+        "alternate_names": [
+            "Gottipati"
+        ],
+        "title": "Leader of Peasant Struggles",
+        "category": "Freedom Fighter & Kisan Leader",
+        "era": "1898 CE – 1988 CE",
+        "native_location": {
+            "district": "Prakasam / Guntur",
+            "city": "Pedaravuru",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Freedom Fighter",
+            "Peasant Movement Leader"
+        ],
+        "notable_works_achievements": [
+            "Spearheaded the historic 'Rentachintala' and anti-tax ryot agitations against British zamindari exploitation",
+            "Organized farmers across Krishna and Guntur delta belts during the national movement",
+            "Served as president of Andhra Pradesh Congress Committee"
+        ],
+        "associated_place_ids": [
+            "LOC000080",
+            "LOC000003"
+        ],
+        "summary": "Legendary peasant leader who championed farmers' rights and organized grassroots resistance against colonial land revenue laws in coastal Andhra.",
+        "images": [
+            "gottipati_brahmayya_portrait.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Gottipati Brahmayya",
+                "Kisan Leader",
+                "Peasant Movement",
+                "Zamindari Protest",
+                "Prakasam"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "FreedomFighter",
+                "FarmerLeader",
+                "AndhraPradesh"
+            ]
+        }
+    },
+    {
+        "id": "PPL000015",
+        "name": "Durgabai Deshmukh",
+        "alternate_names": [
+            "Lady Deshmukh"
+        ],
+        "title": "Mother of Social Work in Andhra",
+        "category": "Freedom Fighter & Social Reformer",
+        "era": "1909 CE – 1981 CE",
+        "native_location": {
+            "district": "Kakinada",
+            "city": "Rajahmundry",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Freedom Fighter",
+            "Lawyer",
+            "Social Worker",
+            "Constituent Assembly Member"
+        ],
+        "notable_works_achievements": [
+            "Founded the Andhra Mahila Sabha in 1937 to empower women through education and healthcare",
+            "Served in the Constituent Assembly of India helping draft the Constitution",
+            "Established Central Social Welfare Board as its first chairperson",
+            "Imprisoned multiple times during Salt Satyagraha and Civil Disobedience"
+        ],
+        "associated_place_ids": [
+            "LOC000011",
+            "LOC000062"
+        ],
+        "summary": "Trailblazing freedom fighter, constitutionalist, and feminist social reformer who founded institutions that transformed women's welfare in India.",
+        "images": [
+            "durgabai_deshmukh_portrait.jpg",
+            "andhra_mahila_sabha.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Durgabai Deshmukh",
+                "Andhra Mahila Sabha",
+                "Constituent Assembly",
+                "Women Empowerment",
+                "Rajahmundry"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "FreedomFighter",
+                "SocialReformer",
+                "WomenLeader"
+            ]
+        }
+    },
+    {
+        "id": "PPL000016",
+        "name": "Dr. Dwaram Venkataswamy Naidu",
+        "alternate_names": [
+            "Dwaram Venkataswamy Naidu"
+        ],
+        "title": "Blind Violin Maestro",
+        "category": "Carnatic Musician",
+        "era": "1893 CE – 1964 CE",
+        "native_location": {
+            "district": "Vizianagaram",
+            "city": "Vizianagaram",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Carnatic Violinist",
+            "Music Educator"
+        ],
+        "notable_works_achievements": [
+            "Elevated the violin from a supporting accompaniment instrument to a solo concert centerpiece in Carnatic music",
+            "Served as Principal of Maharaja's Music College in Vizianagaram",
+            "Awarded Padma Shri in 1957"
+        ],
+        "associated_place_ids": [
+            "LOC000130"
+        ],
+        "summary": "Visually impaired violin virtuoso who revolutionized Carnatic instrumental music and established Vizianagaram as a premier hub for classical arts.",
+        "images": [
+            "dwaram_venkataswamy_naidu_portrait.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Dwaram Venkataswamy Naidu",
+                "Violin Maestro",
+                "Carnatic Music",
+                "Vizianagaram",
+                "Padma Shri"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Musician",
+                "Violinist",
+                "Vizianagaram"
+            ]
+        }
+    },
+    {
+        "id": "PPL000017",
+        "name": "Gunturu Seshendra Sarma",
+        "alternate_names": [
+            "Seshendra Sarma"
+        ],
+        "title": "Modern Epic Poet",
+        "category": "Poet & Critic",
+        "era": "1927 CE – 2007 CE",
+        "native_location": {
+            "district": "Palnadu",
+            "mandal": "Atchampet",
+            "city": "Seeppanakallu",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Poet",
+            "Literary Critic",
+            "Bureaucrat"
+        ],
+        "notable_works_achievements": [
+            "Authored monumental modern epic poems including Rtu Ghosha and My Country My People",
+            "Nominated for the Nobel Prize in Literature in the year 2004",
+            "Received the prestigious Sahitya Akademi Award in 1985"
+        ],
+        "associated_place_ids": [
+            "LOC000017"
+        ],
+        "summary": "Internationally acclaimed Telugu poet and literary theoretician whose vibrant poetry earned a Nobel Prize nomination.",
+        "images": [
+            "seshendra_sarma_portrait.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Seshendra Sarma",
+                "Rtu Ghosha",
+                "Sahitya Akademi",
+                "Nobel Nominee",
+                "Palnadu"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Poet",
+                "Literature",
+                "Palnadu"
+            ]
+        }
+    },
+    {
+        "id": "PPL000018",
+        "name": "Challapalli Sita Rama Sastry",
+        "alternate_names": [
+            "Vedantam Satyanarayana Sarma"
+        ],
+        "title": "Legendary Kuchipudi Dancer",
+        "category": "Classical Dancer",
+        "era": "1935 CE – 2012 CE",
+        "native_location": {
+            "district": "Krishna",
+            "mandal": "Kuchipudi",
+            "city": "Kuchipudi Village",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Kuchipudi Danseuse & Actor",
+            "Master Guru"
+        ],
+        "notable_works_achievements": [
+            "Redefined female character portrayals in Kuchipudi dance drama (Stree Vesham)",
+            "Brought global acclaim to Satyabhama, Sathyabhama, and Usha character roles",
+            "Conferred Padma Shri (1970) and Sangeet Natak Akademi Fellowship"
+        ],
+        "associated_place_ids": [
+            "LOC000003",
+            "LOC000085"
+        ],
+        "summary": "Master exponent of Kuchipudi classical dance who set unmatched benchmarks in male portrayals of female mythological roles.",
+        "images": [
+            "vedantam_satyanarayana_sarma_dance.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "Vedantam Satyanarayana Sarma",
+                "Kuchipudi",
+                "Stree Vesham",
+                "Classical Dance",
+                "Krishna District"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Dancer",
+                "Kuchipudi",
+                "Art"
+            ]
+        }
+    },
+    {
+        "id": "PPL000019",
+        "name": "Nandamuri Taraka Rama Rao",
+        "alternate_names": [
+            "NTR",
+            "Viswa Nata Chakravarty"
+        ],
+        "title": "Legendary Actor & 10th Chief Minister of AP",
+        "category": "Actor & Statesman",
+        "era": "1923 CE – 1996 CE",
+        "native_location": {
+            "district": "Krishna",
+            "mandal": "Nimmakuru",
+            "city": "Nimmakuru",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Film Actor",
+            "Director",
+            "Producer",
+            "Politician",
+            "Chief Minister"
+        ],
+        "notable_works_achievements": [
+            "Starred in over 300 films, defining mythological roles like Lord Rama, Krishna, and Duryodhana",
+            "Founded Telugu Desam Party (TDP) in 1982 and became Chief Minister within 9 months",
+            "Introduced populist welfare schemes like subsidized rice and total prohibition in Andhra Pradesh"
+        ],
+        "associated_place_ids": [
+            "LOC000003",
+            "LOC000085"
+        ],
+        "summary": "Cultural titan of Telugu cinema and transformative political leader who served three terms as Chief Minister of Andhra Pradesh.",
+        "images": [
+            "ntr_portrait_mythology.jpg",
+            "ntr_statue_hyderabad.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "NTR",
+                "Nandamuri Taraka Rama Rao",
+                "Telugu Cinema",
+                "TDP Founder",
+                "Chief Minister"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Actor",
+                "Politician",
+                "Cinema"
+            ]
+        }
+    },
+    {
+        "id": "PPL000020",
+        "name": "Akkineni Nageswara Rao",
+        "alternate_names": [
+            "ANR"
+        ],
+        "title": "Nata Sasankudu",
+        "category": "Cinematic Actor & Producer",
+        "era": "1924 CE – 2014 CE",
+        "native_location": {
+            "district": "Krishna",
+            "mandal": "Gudivada",
+            "city": "Ramapuram",
+            "state": "Andhra Pradesh"
+        },
+        "profession": [
+            "Film Actor",
+            "Producer",
+            "Studio Founder"
+        ],
+        "notable_works_achievements": [
+            "Pioneered the shift of Telugu film industry base from Madras to Hyderabad by founding Annapurna Studios",
+            "Starred in classics like Devadasu, Prem Nagar, and Meghasandesam spanning 7 decades",
+            "Conferred Dadasaheb Phalke Award (1990) and Padma Vibhushan (2011)"
+        ],
+        "associated_place_ids": [
+            "LOC000003"
+        ],
+        "summary": "Legendary cinematic icon whose sensitive performances and founding of Annapurna Studios shaped the destiny of modern Telugu cinema.",
+        "images": [
+            "anr_portrait.jpg",
+            "annapurna_studios_gate.jpg"
+        ],
+        "ai_metadata": {
+            "keywords": [
+                "ANR",
+                "Akkineni Nageswara Rao",
+                "Telugu Cinema",
+                "Annapurna Studios",
+                "Dadasaheb Phalke"
+            ],
+            "search_tags": [
+                "FamousPeople",
+                "Actor",
+                "Cinema",
+                "PadmaVibhushan"
+            ]
+        }
+    }
+]
