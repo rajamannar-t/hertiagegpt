@@ -1,3 +1,4 @@
+
 """
 config.py
 
@@ -41,7 +42,7 @@ class Config:
     # LLM Configuration
     # =================================================
 
-    MODEL_NAME = "llama-3.3-70b-versatile"
+    MODEL_NAME = "openai/gpt-oss-20b"
 
     TEMPERATURE = 0.2
 
@@ -57,9 +58,10 @@ class Config:
     # ChromaDB
     # =================================================
 
-    CHROMA_DB_PATH = "vector_db/chroma_db"
+    CHROMA_DB_PATH = str(BASE_DIR / "vector_db" / "chroma_db")
 
-    COLLECTION_NAME = "heritage_collection"
+    # Combined tourism dataset collection
+    COLLECTION_NAME = "heritage_combined_test"
 
     # =================================================
     # Retrieval
@@ -71,7 +73,18 @@ class Config:
     # Dataset
     # =================================================
 
-    DATASET_FOLDER = "datasets"
+    DATASET_FOLDER = str(BASE_DIR / "datasets")
+
+    KNOWLEDGE_FILE = (
+        BASE_DIR / "datasets" / "aptourism_places.json"
+    )
+
+    CHUNK_FILE = (
+        BASE_DIR
+        / "preprocessing"
+        / "chunks"
+        / "atourism_places_chunks.json"
+    )
 
     # =================================================
     # Logging
@@ -79,7 +92,7 @@ class Config:
 
     LOG_LEVEL = "INFO"
 
-    LOG_FILE = "logs/heritage.log"
+    LOG_FILE = str(BASE_DIR / "logs" / "heritage.log")
 
     # =================================================
     # Validation
@@ -95,7 +108,11 @@ class Config:
         "Cave",
         "Wildlife",
         "Lake",
-        "Hill Station"
+        "Hill Station",
+        "Nature and Beauty",
+        "Nature and Wildlife",
+        "Religious",
+        "Historic & Heritage"
     ]
 
     # =================================================

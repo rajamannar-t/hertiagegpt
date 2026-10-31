@@ -37,7 +37,7 @@ class VectorDatabase:
             f"Connected to collection: {Config.COLLECTION_NAME}"
         )
 
-    ########################################################
+   
 
     def add_document(
         self,
@@ -55,7 +55,6 @@ class VectorDatabase:
             metadatas=[metadata]
         )
 
-    ########################################################
 
     def add_documents(
         self,
@@ -73,7 +72,7 @@ class VectorDatabase:
             metadatas=metadatas
         )
 
-    ########################################################
+    
 
     def search(
         self,
@@ -90,19 +89,18 @@ class VectorDatabase:
 
         return results
 
-    ########################################################
+   
 
     def count(self):
 
         return self.collection.count()
 
-    ########################################################
+   
 
     def peek(self, limit=5):
 
         return self.collection.peek(limit)
-
-    ########################################################
+   
 
     def delete_all(self):
 
