@@ -372,10 +372,8 @@ vector_db/chroma_db/
 
 ## Author
 
-**Your Name**\
+RAJA MANNAR
 B.Tech -- Artificial Intelligence
-
-Add your GitHub, LinkedIn, and contact details before publishing.
 
 ------------------------------------------------------------------------
 
